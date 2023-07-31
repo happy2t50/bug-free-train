@@ -1,8 +1,7 @@
 package stu;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public abstract class Equipo {
     private String nombre;
