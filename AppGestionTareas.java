@@ -20,7 +20,7 @@ public class AppGestionTareas {
     }
 
     public void iniciar() {
-        int opcion = 0;
+        int opcion = 8;
         do {
             mostrarMenuPrincipal();
             opcion = obtenerOpcion();
